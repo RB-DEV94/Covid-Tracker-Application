@@ -17,7 +17,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-//Tracker Service
+//Tracker Service which gets the latest covid data
 @Service
 public class CovidTrackerService
 {
